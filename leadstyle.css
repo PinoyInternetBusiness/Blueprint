@@ -26,7 +26,7 @@ html,body{
   text-align: center;
 }
 .content h1{
-  font-family: 'Quicksand',sans-serif;
+  font-family: 'Arial',sans-serif;
   color: #f9f3f4;
   font-size: 250%;
   
@@ -34,7 +34,7 @@ html,body{
 }
 
 .content h5{
-  font-family: 'Quicksand',sans-serif;
+  font-family: 'Arial',sans-serif;
   color: #f9f3f4;
   font-size: 150%;
    line-height: 100%;
